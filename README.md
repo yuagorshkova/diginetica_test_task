@@ -1,0 +1,1 @@
+# diginetica_test_task
